@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "IAB's OpenRTB spec types in TypeScript",
   "main": "./src/v2.5/index.ts",
+  "types": "./src/v2.5/index.ts",
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
