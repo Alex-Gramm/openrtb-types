@@ -1,23 +1,23 @@
 {
-  "name": "@mdnx/openrtb-types",
-  "version": "1.0.0",
+  "name": "@alex-gramm/openrtb-types",
+  "version": "1.0.1",
   "description": "IAB's OpenRTB spec types in TypeScript",
-  "main": "./src/v2.5/index.ts",
-  "types": "./src/v2.5/index.ts",
+  "main": "./dist/index.js",
+  "types": "./dist",
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mairdumont-netletix/openrtb-types.git"
+    "url": "git+https://github.com/Alex-Gramm/openrtb-types.git"
   },
   "author": "Denny Bartelt <d.bartelt@mairdumont-netletix.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mairdumont-netletix/openrtb-types/issues"
+    "url": "https://github.com/Alex-Gramm/openrtb-types/issues"
   },
-  "homepage": "https://github.com/mairdumont-netletix/openrtb-types#readme",
+  "homepage": "https://github.com/Alex-Gramm/openrtb-types#readme",
   "devDependencies": {
     "typescript": "^3.5.2"
   }
